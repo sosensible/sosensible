@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @sosensible, or John Farrar
-- 👀 I’m interested in disrupting online educaton.
-- 🌱 I’m currently learning Vue 3, TypeScript, and modern back end services.
-- 💞️ I’m looking to collaborate on Open Learning Server and the [Collaboration](https://github.com/BOT-TC/Collaboration) framework.
+- 👀 I’m interested in disrupting online education.
+- 🌱 I work with CloudFlare, Docker, Nuxt, Quasar, Supabase, TypeScript, Vue, and more.
+- 💞️ We have a few private projects in development.
+  - Budgeting Camp
+  - Coaches Aide
+  - IMF Planner
 - 📫 How to reach me ( twitter: @sosensible, linkedIn: https://www.linkedin.com/in/johnfarrar/ )
 
 <!---
