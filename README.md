@@ -4,8 +4,7 @@
 - 💞️ We have a few private projects in development.
   - Budgeting Camp
   - Coaches Aide
-  - IMF Planner
-- 📫 How to reach me ( twitter: @sosensible, linkedIn: https://www.linkedin.com/in/johnfarrar/ )
+- 📫 How to reach me ( X: @sosensible, linkedIn: https://www.x.com/in/johnfarrar/ )
 
 <!---
 sosensible/sosensible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
